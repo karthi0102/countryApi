@@ -78,3 +78,12 @@ body{
     font-weight: 800; 
     color:#242424;
 }
+@media screen and (max-width:500px){
+    .heading{
+        font-size:1.5rem;
+        font-weight: 400;
+    }
+    .header{
+        height:180px;
+    }
+}
